@@ -14,7 +14,7 @@
  @smaller{(ga)}
  @bold{Vin Rossi}}
 
-@image[#:scale 0.35 "./images/rockingonandon_02.png"]
+@image[#:scale 0.35 "vinP5.png"]
 
 My name is Gavin Rossi -- though everyone calls me Vin -- and I am a Cybersecurity student at Northeastern University. I love tinkering, reviving E-Waste, all things RF, watching movies, and much much more. 
 
