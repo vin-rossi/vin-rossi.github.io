@@ -14,7 +14,7 @@
  @smaller{(ga)}
  @bold{Vin Rossi}}
 
-@image[#:scale 0.35 "vinP5.png"]
+@image[#:scale 0.35 "TimesSquare.png"]
 
 My name is Gavin Rossi -- though everyone calls me Vin -- and I am a Cybersecurity student at Northeastern University. I love tinkering, reviving E-Waste, all things RF, watching movies, and much much more. 
 
@@ -86,7 +86,7 @@ I oranized weekly meetings and taught cybersecurity skills to a wide community o
 TCP versus UDP connection. Using interactive activites using @hyperlink["https://overthewire.org/wargames/"]{Over the Wire} and performing live exploits on
 virtual machines(and sometimes eachother's laptops), we taught integral concepts of pentesting and defense.
 
-@image[#:scale 0.35 "./images/ctfteach.png"]
+@image[#:scale 0.35 "./ctfteach.png"]
 @smaller{photo by @hyperlink["www.ryanrasc.com"]{Ryan Raschkovsky}}
 
 At the end of the semester, we organized a school wide CTF. Using an isolated switch and RDP, we set up desktop computers with Kali linux and students competed to capture
