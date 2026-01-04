@@ -53,12 +53,14 @@ NixOS has certainly not been an easy journey, but I've been having a lot of fun 
 During Fall 2025, I took Computer Systems, or CS3650, with Professor Ferdinand Vessely. In this course, I was able to explore the inner working of the computer systems we use every day, and begin creating my own components in C. While I can't publicly publish my code from this course, any of my projects' source code is availble upon request.
 
 @subsubsection{Shell}
-One key project I completed was creating a custom shell capable of executing programs (e.g. ls, cd, etc), as well as perform built-in functionalities one expects from a shell (fill in examples).
+One key project I completed was creating a custom shell capable of running programs (e.g. ls, cd, etc), perform built-in functionalities one expects from a shell (sequencing, pipe, input/output redirection), and I wrote some built-in functionalities (cd, source, prev, help).
 
 This project was a lot of fun and pushed me to better understand the underworkings of a tool I use every day.
 
 @subsubsection{File System}
-For my final project, I created a custom file system. ** fill in detials **.
+For my final project, I built a custom FUSE filesystem driver able to mount a disk image as a filesystem. It is able to create files, write to and read from files, rename files, and delete files. Additionally it is able to create, rename, and delete directories. You can also create files contained in directories, move files between directories, and list all the contents of a directory.
+
+This was a really fun project to work on and a perfect way to tie-up my semester. It synthesised all of my learning in C, memory allocation, and computer systems in a practical project that furthered my understanding of all computers.
 
 @subsection{Object Oriented Design -- CS3100}
 During Fall 2025, I took the course Object Oriented Design, or CS3100, with Professor Lucia Nunez in the final semester of the original curriculum. This course propelled my skills in Java and OOD as a whole. While the projects i completed for this class primarliy consisted of creating playable games, the lessons I learned in design have given me the skillset to create good object-oriented programs, as well as good programs as a whole.
