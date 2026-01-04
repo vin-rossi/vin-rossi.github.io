@@ -44,6 +44,11 @@ I chose to use Scribble for this site as an homage to Racket and the "How To Des
 
 You can check out the source code for this website @hyperlink["https://github.com/Rhea-Morningstar/Rhea-Morningstar.github.io"]{here}.
 
+@subsection{vinixOS}
+I have been daily driving linux since highschool, and after years of chronic distro hopping (ubuntu -> mint -> fedora -> arch) I decided to spend the time to create a stable set-up I could keep to grow with me. I chose NixOS due to its declaritive, reproducible nature, allowing me to easily replicate my setup with just three files (my flake, configuration, and home-manager). This reproducibility was a big pro for me due to my tendency of picking up laptops from E-waste and reparing them, so I wanted to be able to easily set them up. 
+
+NixOS has certainly not been an easy journey, but I've been having a lot of fun learning it developing my configuration. You can view it all @hyperlink["https://github.com/Rhea-Morningstar/vinixOS"]{here}.
+
 @subsection{Computer Systems -- CS3650}
 During Fall 2025, I took Computer Systems, or CS3650, with Professor Ferdinand Vessely. In this course, I was able to explore the inner working of the computer systems we use every day, and begin creating my own components in C. While I can't publicly publish my code from this course, any of my projects' source code is availble upon request.
 
