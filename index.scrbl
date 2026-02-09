@@ -76,7 +76,7 @@ I am unable to publicly publish any of my code for this course, but the source c
 In this class, I created a CLI, text-based game of Klondike solitaire in Java. You can customize the cards to be used in the game, the difficulty of the game, and the game mode (Basic or Whitehead), before playing the game fully through your terminal.
 
 @subsubsection{Queen's Blood}
-Another game I created for this course was an adapted version of the Queen's Blood mini game from Final Fantasy. This is a two player, compettive game in which players play cards from respective decks to gain control over a shared board. You can customize the cards to be used in the game, the size of the game board, the player types (Human or Robot), and the strategies employed by the automated players (if any). I used the Java Swing library to create an interactive user-interface to view and play the game in real time. 
+Another game I created for this course was an adapted version of the Queen's Blood mini game from Final Fantasy. This is a two player, competitive game in which players play cards from respective decks to gain control over a shared board. You can customize the cards to be used in the game, the size of the game board, the player types (Human or Robot), and the strategies employed by the automated players (if any). I used the Java Swing library to create an interactive user-interface to view and play the game in real time. 
 
 @section{Clubs and Leadership}
 
@@ -92,7 +92,7 @@ TCP versus UDP connection. Using interactive activites using @hyperlink["https:/
 virtual machines(and sometimes eachother's laptops), we taught integral concepts of pentesting and defense.
 
 @image[#:scale 0.35 "./ctfteach.png"]
-@smaller{photo by @hyperlink["www.ryanrasc.com"]{Ryan Raschkovsky}}
+@smaller{photo by @hyperlink["https://www.ryanrasc.com"]{Ryan Raschkovsky}}
 
 At the end of the semester, we organized a school wide CTF. Using an isolated switch and RDP, we set up desktop computers with Kali linux and students competed to capture
 4 flags of increasing difficulty. In another room, I displayed live footage of the contestants screens to an audience of non-competitors and explained the tools and methods
